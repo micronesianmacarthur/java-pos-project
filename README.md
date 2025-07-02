@@ -1,1 +1,1 @@
-# Smart Clinic Managemenrt System
+# Point of Sale System
